@@ -1,0 +1,11 @@
+{
+  "home_address": "北京市朝阳区",
+  "work_address": "北京市海淀区中关村",
+  "api_key": "your_openweathermap_api_key_here",
+  "preferences": {
+    "min_temp": 5,
+    "max_temp": 30,
+    "max_wind_speed": 10,
+    "allow_rain": false
+  }
+}
