@@ -1,25 +1,11 @@
 {
-  // 家庭地址 - 用于获取天气信息的主要位置
-  "home_address": "北京市朝阳区",
-  
-  // 工作地址 - 预留字段，未来可用于路线规划
-  "work_address": "北京市海淀区中关村",
-  
-  // 和风天气API密钥 - 从 https://dev.qweather.com/ 获取
+  "home_city": "北京市",
+  "work_city": "上海市",
   "api_key": "your_qweather_api_key_here",
-  
-  // 骑行偏好设置
   "preferences": {
-    // 最低温度限制（摄氏度）- 低于此温度不建议骑行
     "min_temp": 5,
-    
-    // 最高温度限制（摄氏度）- 高于此温度不建议骑行
     "max_temp": 30,
-    
-    // 最大风速限制（米/秒）- 超过此风速不建议骑行
     "max_wind_speed": 10,
-    
-    // 是否允许雨天骑行 - true允许，false不允许
     "allow_rain": false
   }
 }
