@@ -1,7 +1,7 @@
 {
-  "home_city": "北京市",
-  "work_city": "上海市",
-  "api_key": "your_qweather_api_key_here",
+  "home_city": "北京市朝阳区",
+  "work_city": "北京市海淀区",
+  "api_key": "你的和风天气API密钥",
   "preferences": {
     "min_temp": 5,
     "max_temp": 30,
